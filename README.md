@@ -1,21 +1,22 @@
-language : ~~Korean~~, python, 
+**Language 🗣️:** ~~Korean~~, Python
 
-natural language 
-  read:
-    Korean: ⬜🟩🟩🟩🟩
-    English: ⬜⬜⬜🟩🟩
-    Japanese: ⬜⬜⬜⬜🟩
-  write:
-    Korean: ⬜🟩🟩🟩🟩
-    English: ⬜⬜⬜🟩🟩
-    Japanese: ⬜⬜⬜⬜🟩
-  speaking:
-    Korean: ⬜⬜⬜⬜🟩
-    English: ⬜⬜⬜⬜🟩
-    Japanese: ⬜⬜⬜⬜🟩
-  listening:
-    Korean: ⬜⬜🟩🟩🟩
-    English: ⬜⬜⬜🟩🟩
-    Japanese: ⬜🟩🟩🟩🟩
+**Natural Language Skills 🔤**
 
-sense of humor: ⬜⬜⬜⬜🟩
+- **Read 👀:**
+  - Korean: ⬜🟩🟩🟩🟩
+  - English: ⬜⬜⬜🟩🟩
+  - Japanese: ⬜⬜⬜⬜🟩
+- **Write ✍️:**
+  - Korean: ⬜🟩🟩🟩🟩
+  - English: ⬜⬜⬜🟩🟩
+  - Japanese: ⬜⬜⬜⬜🟩
+- **Speaking 🗣️:**
+  - Korean: ⬜⬜⬜⬜🟩
+  - English: ⬜⬜⬜⬜🟩
+  - Japanese: ⬜⬜⬜⬜🟩
+- **Listening 👂:**
+  - Korean: ⬜⬜🟩🟩🟩
+  - English: ⬜⬜⬜🟩🟩
+  - Japanese: ⬜🟩🟩🟩🟩
+
+**Sense of Humor 😂:** ⬜⬜⬜⬜🟩
